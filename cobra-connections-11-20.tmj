@@ -2843,7 +2843,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"cobra-connections-11-20-winter.png"
+         "value":"cobra-connections-11-20.png"
         }, 
         {
          "name":"mapName",

@@ -3227,7 +3227,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"music-lab-winter.png"
+         "value":"music-lab.png"
         }, 
         {
          "name":"mapName",
