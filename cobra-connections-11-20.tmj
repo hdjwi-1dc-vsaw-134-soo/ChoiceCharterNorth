@@ -11477,7 +11477,7 @@
         {
          "columns":36,
          "firstgid":67308,
-         "image":"..\/ChoiceCarterSchoolSOUTH\/tilesets\/grass-patch.png",
+         "image":"tilesets\/grass-patch.png",
          "imageheight":928,
          "imagewidth":1152,
          "margin":0,
@@ -11490,7 +11490,7 @@
         {
          "columns":16,
          "firstgid":68352,
-         "image":"..\/ChoiceCarterSchoolSOUTH\/tilesets\/roads.png",
+         "image":"tilesets\/roads.png",
          "imageheight":768,
          "imagewidth":512,
          "margin":0,
@@ -11503,7 +11503,7 @@
         {
          "columns":50,
          "firstgid":68736,
-         "image":"..\/ChoiceCarterSchoolSOUTH\/tilesets\/trees-grounds.png",
+         "image":"tilesets\/trees-grounds.png",
          "imageheight":768,
          "imagewidth":1600,
          "margin":0,
@@ -11516,7 +11516,7 @@
         {
          "columns":40,
          "firstgid":69936,
-         "image":"..\/ChoiceCarterSchoolSOUTH\/tilesets\/rugs.png",
+         "image":"tilesets\/rugs.png",
          "imageheight":1280,
          "imagewidth":1280,
          "margin":0,
