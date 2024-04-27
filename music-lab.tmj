@@ -1782,7 +1782,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/beethoven.mp3"
+                         "value":"beethoven.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1804,7 +1804,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/bach.mp3"
+                         "value":"bach.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1826,7 +1826,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/mbira.mp3"
+                         "value":"mbira.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1848,7 +1848,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/swing.mp3"
+                         "value":"swing.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
